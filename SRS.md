@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
--   [Camera Observation Tool (COT) - Software Requirements Specification](#cameraObservationTool(COT)-community---software-requirements-specification)
+-   [Camera Observation Tool (COT) - Software Requirements Specification](#camera-observation-tool-(cot)---software-requirements-specification)
 
     -   [Table of Contents](#table-of-contents)
 
@@ -17,11 +17,12 @@
     -   [2. Overall Description](#2-overall-description)
 
         -   [2.1 Vision](#21-vision)
+        -   [2.2 Use Case Diagram](#21-use-case-diagram)
 
-    -   [2.2 Product perspective](#22-product-perspective)
+    -   [2.3 Product perspective](#23-product-perspective)
 
-        -   [2.3 User characteristics](#23-user-characteristics)
-        -   [2.4 Dependencies](#24-dependencies)
+        -   [2.4 User characteristics](#24-user-characteristics)
+        -   [2.5 Dependencies](#25-dependencies)
 
     -   [3. Specific Requirements](#3-specific-requirements)
 
@@ -127,11 +128,14 @@ The following chapters aim to give an overview regarding the general project ide
 During our second year of studying we want to develop a Camera Observation Tool (COT) for our course Souftware Engineering.
 This will be a tool for smart homes. The user can be notified when an unknown person enters their backyard. An AI for categorzing visitors and a live analysis of an (outdoor) camera picture make that possible. We also want to provide access to the live video for the user. As a backup solution in case our video recognition doesn't worok, we thought about adding a voice recognition or a quiz/password.
 
-## 2.2 Product perspective
+### 2.2 Use Case Diagram
+![Image of Use Case Diagram](https://github.com/mymanu/Camera-Observation-Tool-Documentation/blob/main/Use_Case_Diagram.drawio)
 
-### 2.3 User characteristics
+## 2.3 Product perspective
 
-### 2.4 Dependencies
+### 2.4 User characteristics
+
+### 2.5 Dependencies
 For full functionality of the app special hardware is needed.To be precise at least one installed camera with connectivity to the internet. Indirect access by using a micro computer (e.g. RPi) is possible too. Furthermore a big enough internet bandwidth is recommended to garuantee a certain video quality when checking the status while in holidays.
 
 ## 3. Specific Requirements
