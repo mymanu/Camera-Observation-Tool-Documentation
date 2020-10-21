@@ -1,4 +1,4 @@
-# littleBeasts - Software Requirements Specification
+# Camera Observation Tool (COT) - Software Requirements Specification
 
 ## Table of Contents
 
