@@ -129,7 +129,7 @@ During our second year of studying we want to develop a Camera Observation Tool 
 This will be a tool for smart homes. The user can be notified when an unknown person enters their backyard. An AI for categorzing visitors and a live analysis of an (outdoor) camera picture make that possible. We also want to provide access to the live video for the user. As a backup solution in case our video recognition doesn't worok, we thought about adding a voice recognition or a quiz/password.
 
 ### 2.2 Use Case Diagram
-![Image of Use Case Diagram](https://github.com/mymanu/Camera-Observation-Tool-Documentation/blob/main/Use_Case_Diagram.drawio)
+![Image of Use Case Diagram](https://github.com/mymanu/Camera-Observation-Tool-Documentation/blob/main/Use_Case_Diagram_as_of_18102020.pdf)
 
 ## 2.3 Product perspective
 
