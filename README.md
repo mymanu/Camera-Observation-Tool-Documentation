@@ -2,7 +2,7 @@
 Camera Observation Tool, project for Software Engineering class at DHBW
 
 Link to Code Repository
-[GitHub](https://github.com/mymanu/Camera-Observation-Tool)
+[Camera-Observation-Tool](https://github.com/mymanu/Camera-Observation-Tool)
 
 Our team roles will be granted as followed:
 - Marcel: Server, Docker, Backend, Integrator
