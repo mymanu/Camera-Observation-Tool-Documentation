@@ -5,10 +5,10 @@
 ## 1.1 Brief Description
 
 ## 1.2 Mockup
-![Manage Accounts and Rights](mockUps_pictures/user_notification_visitor.png)
+--
 
 ## 1.3 Screenshot
---
+![Manage Accounts and Rights](mockUps_pictures/user_notification_visitor.png)
 
 # 2. Flow of Events
 --
