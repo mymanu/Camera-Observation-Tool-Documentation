@@ -5,11 +5,11 @@
 ## 1.1 Brief Description
 
 ## 1.2 Mockup
-![Manage Accounts and Rights](mockUps_pictures/manage_accounts_and_rights_one.JPG)
-![Manage Accounts and Rights](mockUps_pictures/manage_accounts_and_rights_two.JPG)
+--
 
 ## 1.3 Screenshot
---
+![Manage Accounts and Rights](mockUps_pictures/manage_accounts_and_rights_one.JPG)
+![Manage Accounts and Rights](mockUps_pictures/manage_accounts_and_rights_two.JPG)
 
 # 2. Flow of Events
 --
