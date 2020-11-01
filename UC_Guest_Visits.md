@@ -8,7 +8,7 @@
 --
 
 ## 1.3 Screenshot
-![Manage Accounts and Rights](mockUps_pictures/user_notification_visitor.png)
+![screenshot](mockUps_pictures/user_notification_visitor.png)
 
 # 2. Flow of Events
 --
@@ -20,7 +20,8 @@
 ![activity-diagram](GuestVisitsActivityDiagram.png)
 
 ### .feature File
---
+Our testing file using Cucumber can be found
+[here.](https://github.com/mymanu/Camera-Observation-Tool/blob/main/.feature_files/Guest_Visits.feature)
 
 ## 2.2 Alternative Flows
 --
