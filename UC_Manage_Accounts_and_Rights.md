@@ -21,7 +21,8 @@ With this CRUD function the user is able to create and delete accounts if he or 
 ![activity-diagram](ManageAccountsAndRights_ActivityDiagram.png)
 
 ### .feature File
---
+Our testing file using Cucumber can be found
+[here.](https://github.com/mymanu/Camera-Observation-Tool/blob/main/.feature_files/Manage_Accounts_and_Rights.feature).
 
 ## 2.2 Alternative Flows
 --
